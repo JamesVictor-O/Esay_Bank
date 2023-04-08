@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   return (
-    <div className="App bg-hsl(0, 0%, 100%) relative">
+    <div className="App bg-hsl(0, 0%, 100%) relative overflow-x-hidden">
       <NavBar/>
       <div>
         <FirstPage/>
