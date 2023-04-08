@@ -16,7 +16,7 @@ import images from "../assets/image-mockups.png"
                 </div>
                 
             </div>
-            <div className="bg-bg_desktop bg-center bg-cover overflow-hidden absolute left-[50%] w-[900px] h-[109vh]">
+            <div className="bg-bg_desktop bg-center bg-cover">
                 <img
                 className=" "
                  src={images}
